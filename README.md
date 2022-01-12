@@ -1,2 +1,2 @@
-# defender
-Defender Clone
+# snake
+Snake Clone
