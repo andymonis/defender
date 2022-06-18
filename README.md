@@ -1,2 +1,2 @@
-# snake
-Snake Clone
+# notes
+Notes app
